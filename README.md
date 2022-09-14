@@ -4,10 +4,20 @@ I'm a software developer from Beijing, China.
 I mainly do web frontend & Unity game development.
 I'm currently studying game development in Communication University of China.
 
-## What I've Been Doing Recently
+## What I've Been Doing
 
 <table>
 	<tr><th>Repository</th><th>Time</th><th>Description</th></tr>
+	<tr>
+		<td><a href="https://github.com/WangNianyi2001/cli-ts">cli-ts</td>
+		<td><time>Sept., 2022</time></td>
+		<td>
+			<kbd>TypeScript</kbd>
+			<kbd>Node</kbd>
+			<kbd>CLI</kbd>
+			Parse command-line arguments easily in your NodeJS application.
+		</td>
+	</tr>
 	<tr>
 		<td><a href="https://github.com/WangNianyi2001/praatio-ts">praatio-ts</td>
 		<td><time>Aug., 2022</time></td>
