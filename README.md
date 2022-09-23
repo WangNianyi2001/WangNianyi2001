@@ -19,13 +19,13 @@ I'm currently studying game development in Communication University of China.
 		</td>
 	</tr>
 	<tr>
-		<td><a href="https://github.com/WangNianyi2001/praatio-ts">praatio-ts</td>
+		<td><a href="https://github.com/WangNianyi2001/textgrid-js">textgrid-js</td>
 		<td><time>Aug., 2022</time></td>
 		<td>
 			<kbd>TypeScript</kbd>
 			<kbd>Node</kbd>
 			<kbd>Praat</kbd>
-			Manipulate Praat textgrid in Node.
+			Manipulate Praat textgrid with NodeJS.
 		</td>
 	</tr>
 	<tr>
