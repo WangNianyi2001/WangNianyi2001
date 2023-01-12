@@ -32,7 +32,7 @@ You can check out my [personal blog](WangNianyi2001.github.io), it is hosted wit
 		<td>Create a network of related mathematical variables, set one's value and others' will all be updated.</td>
 	</tr>
 	<tr>
-		<td><a href="https://github.com/WangNianyi2001/cli-ts">cli-ts</td>
+		<td><a href="https://github.com/WangNianyi2001/cli-js">cli-js</td>
 		<td><time>Sept., 2022</time></td>
 		<td>Parse command-line arguments easily in your Node application.</td>
 	</tr>
