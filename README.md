@@ -22,7 +22,7 @@ You can check out my [personal blog](WangNianyi2001.github.io), it is hosted wit
 <table>
 	<tr><th>Repository</th><th>Time</th><th>Description</th></tr>
 	<tr>
-		<td><a href="https://github.com/WangNianyi2001/vector-ts">vector-ts</td>
+		<td><a href="https://github.com/WangNianyi2001/vector-js">vector-js</td>
 		<td><time>Jan., 2023</time></td>
 		<td>JavaScript module for vector calculations.</td>
 	</tr>
